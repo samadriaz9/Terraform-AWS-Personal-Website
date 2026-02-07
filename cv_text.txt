@@ -1,0 +1,152 @@
+Samad Riaz 
+✉ 
+samadriaz@uetpeshawar.edu.pk      
++923305922017   
+samad -riaz-261919170/  
+  
+Peshawar, Pakistan  
+ 
+Profile  
+Computer Vision & Edge -AI Engineer  with 3+ years of experience designing and deploying real -world vision systems for water 
+safety, surveillance, and smart agriculture.  
+ 
+Professional Experience  
+ 
+Machine Learning Engineer — CIS Pvt Ltd , Islam abad  (2025 –Present)  
+• Architected portable CV -based microbial detection kits  using microscopic imaging + CNN pipelines for drinking water 
+safety . 
+• Reduced bacterial detection time from 24 hours → 5 hours . 
+• Integrated predictive ML pipelines enabling early contamination alerts . 
+• Deployed optimized inference pipelines on Raspberry Pi edge devices . 
+Visiting Lecturer — Center of AI, UET Mardan  (2025 –Present)  
+• Mentored undergraduate students on C++ and Computer Vision.  
+• Supervised student CV mini -projects and code reviews . 
+ 
+ML Engineer — National Center of AI, UET Peshawar  (2024 –2025)  
+• Built plant growth stage recognition pipelines using CNN + YOLO . 
+• Developed CV models to monitor leaf health, canopy coverage & growth trends . 
+• Enabled automated climate control decisions increasing plant yield reliability . 
+• Designed cloud -connected dashboards for real -time visualization . 
+ 
+Research Associate — National Center of AI, UET Peshawar  (Aug 2023 – Jun 2024 ) 
+• Designed and deployed a fully automated computer vision system for E. coli colony detection and counting  integrated 
+with DelAgua water testing kits . 
+• Developed CNN -based classification and colony counting models achieving 90% + detection accuracy . 
+• Automated colony enumeration and contamination alert workflows for laboratory and on -site water testing . 
+ 
+Junior AI -Engineer  — Center for Intelligent System and Network Research, UET Peshawar  (2022 –2023)  
+• Built CV pipelines for criminal recognition, mob detection, flood & earthquake early -warning . 
+• Worked on multi -camera surveillance processing and event classification systems . 
+• Deployed CNN -based anomaly detection pipelines . 
+Engineering Intern — Pak Electron Limited (PEL)  
+• Assisted in power systems analysis and technical documentation . 
+• Supported engineering teams in equipment performance evaluation and reporting . 
+ 
+Engineering Intern — Pakistan Telecommunication Company Limited (PTCL)  
+• Gained hands -on exposure to telecom network infrastructure, transmission systems, and field operations  
+ 
+Education  
+ 
+MS in Artificial Intelligence  — University of Engineering & Technology, Peshawar  
+2024 – 2026  | CGPA: 3.8 / 4.0  
+ 
+BSc in Electrical (Communication) Engineering  — University of Engineering & Technology, Peshawar  
+2018 – 2022  | CGPA: 3.5 / 4.0  
+ 
+HSSC (Pre -Engineering)  — Ghazali Science College, Charsadda  
+2016 – 2018 | 2nd Position in College  
+ 
+ 
+
+Publications  
+ 
+[1]. S. Riaz , A. Saghir, M. J. Khan, H. Khan, H. S. Khan, and M. J. Khan, “TransLSTM: A hybrid LSTM -Transformer model for 
+fine-grained suggestion mining,” Natural Language Processing Journal, p. 100089, Jul. 2024, doi: 
+10.1016/J.NLP.2024.100089.  
+[2]. Mansoor Khan, Riaz, S., & Gul Muhammad Khan. (2024). Drinking Water Monitoring: Computer Vision Kit for Early E. 
+coli Detection.  International Journal of Innovations in Science & Technology , 6(5), 248 –256. Retrieved from 
+https://journal.50sea.com/index.php/IJIST/article/view/801  
+[3]. Zargham, Abdullah, Ihtisham Ul Haq, Tamara Alshloul, Samad Riaz , Ghassan Husnain, Muhammad Assam, Yazeed 
+Yasin Ghadi, and Heba G. Mohamed. "Revolutionizing Small -Scale Retail: Introducing an Intelligent IoT -based Scale 
+for Efficient Fruits and Vegetables Shops."  Applied Sciences  13, no. 14 (2023): 8092 . 
+[4]. Rahman, J. U., Riaz, S., & Salma. (2024). Stress Detection and Prediction Using CNNs from Electrocardiogram 
+Signals.  International Journal of Innovations in Science & Technology,  6(5), 207 –215. Retrieved from 
+https://journal.50sea.com/index.php/IJIST/article/view/795  
+[5]. Arif, T., Riaz, S., Shafiq, Z., & Khan, G. M. (2025, June). Computer Vision -Based Plant Growth Stages Analysis for 
+Optimizing Crop Yield. In  IFIP International Conference on Artificial Intelligence Applications and Innovations  (pp. 283 -
+296). Cham: Springer Nature Switzerland.  
+ 
+Awards & Recognitions  
+ 
+• Speaker Award — ASME EFx UET Peshawar (Feb 2025)  
+Delivered a keynote on “AI in Agriculture”  to students and industry experts. Introduced the Smart Plants Incubator 
+and discussed its role in enabling climate resilience and entrepreneurship in vulnerable regions.  
+ 
+Technical Skills  
+ 
+Programming : Python, C/C++, MATLAB, R, Git/GitHub . 
+Computer Vision & Deep Learning:  OpenCV, YOLO, CNNs, Vision Transformers, VideoMAE, TensorFlow,  Hugging Face . 
+Machine Learning & Data:  Scikit -Learn, Pandas, NumPy, Matplotlib . 
+Generative AI & LLM:  Stable  Diffusion, LoRA Models, RAG Systems, LangChain, FAISS . 
+Edge -AI & Embedded:  Raspberry Pi, Jetson Nano, Arduino, Camera Pipelines, Environmental Sensors . 
+Deployment & Cloud:  Flask/FastAPI, REST APIs, AWS EC2, Linux . 
+Design & Prototyping:  SolidWorks (Intermediate), 3D Printing (CreatBot), Product Prototyping . 
+Documentation & Productivity:  Grants Writing , Technical Documentation, Research Papers, Reports, Microsoft Word, 
+Excel, PowerPoint . 
+ 
+Courses and Certifications  
+ 
+• The Raspberry PI  Platform and Python Programming for the Raspberry Pi (Coursera, 2022)  
+• Introduction to TensorFlow  for Artificial Intelligence, Machine Learning, and Deep Learning ( Coursera, 2021)  
+• Introduction to Programming with MATLAB  (Coursera, 2021 ) 
+• CS107:  C++ Programming (Saylor.org)  
+• The Arduino Platform and C programming ( Coursera, 2021)  
+• Neural Network s and Deep Learning (Coursera, 2021)  
+• Python  for Data Science, AI &Development  (Coursera, 2020)  
+• Introduction to Computers and Office Productivity Software (Coursera 2021)  
+• Python Basic (Coursera 2022)  
+• Introduction to the Internet of Things and Embedded Systems (Coursera)  
+• Building Arduino robots and devices (Coursera, 2020)  
+•  Excel Crash Course (Corporate finance Institute, 2020)  
+ 
+
+Samad Riaz 
+✉ 
+samadriaz@uetpeshawar.edu.pk      
++923305922017   
+samad -riaz-261919170/  
+  
+Peshawar, Pakistan  
+ 
+Selected Projects & Thesis  
+ 
+Computer Vision –Based Smart Weighing Scale — BSc Final Year Project  (2021 – 2022 ) 
+• Built an automated retail weighing and billing system using YOLOv4 -based item recognition + load -cell integration . 
+• Achieved 92%+ detection accuracy  for fruits and veg  item recog nition . 
+• Designed an interactive GUI enabling real -time product recognition and automated price calculation . 
+MS Thesis — Video -Based Child Activity Recognition (Ongoing)  
+• Developing a hybrid deep learning architecture combining Vision Transformers, VideoMAE, and 3D CNNs . 
+• Focused on temporal –spatial feature extraction and multi -model fusion  for surveillance -grade action recognition . 
+• Targeting improved accuracy on real -world child safety and monitoring datasets  
+ 
+Semester Projects:  
+• Deep  Learning -Base Traffic Sign Board Recognition.  
+• Facial Expression Recognition  using convolution neural network.  
+• Pakistan Currency Recognition and Detection  using deep learning.  
+• Detection of glasses on face using deep learning.  
+• Water level Controlled in water tank using transistor.  
+• 4-bit counter from flip flops.  
+ 
+Freelancer  (July 2022 – Present ) 
+ 
+https://www.fiverr.com/s/42xgLxy  
+https://www.upwork.com/freelancers/~01eaa008ed7252fded?mp_source=share  
+ 
+• Delivered end -to-end computer vision solutions for international clients  on Fiverr & Upwork  
+• Built CV pipelines using YOLO, Faster -RCNN, CNNs, Stable Diffusion, and LoRA model s 
+• Performed dataset engineering, preprocessing, model training, optimization, and deployment  
+• Deployed AI models on Raspberry Pi and Jetson Nano edge devices  
+• Produced professional technical documentation and project reports for clients  
+ 
+ 
+ 
