@@ -1,4 +1,4 @@
-name: Test
+name: Listening S3 Buckets
 
 on:
   push:
@@ -9,8 +9,18 @@ on:
 
 
 jobs:
-  log_message:
+  listening_backets:
     runs-on: ubuntu-latest
     steps:
-    - name: Log a message
-      run: echo "This is a test message from the GitHub Actions workflow."
+    - name: Set up AWS Credentials
+      uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502
+      with:
+        role-to-assume: ${{ secrets.IAM}}
+        aws-region: ${{ secrets.AWS_REGION}}
+
+      - name: List S3 Buckets
+        env:
+          AWS_REGION: ${{ secrets.AWS_REGION}}
+        run: |
+          echo "Listing S3 Buckets in region $AWS_REGION"
+          aws s3 ls
