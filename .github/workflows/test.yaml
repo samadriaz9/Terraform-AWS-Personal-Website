@@ -9,14 +9,14 @@ on:
 
 
 jobs:
-  listening_backets:
+  listening_buckets:
     runs-on: ubuntu-latest
     steps:
-    - name: Set up AWS Credentials
-      uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502
-      with:
-        role-to-assume: ${{ secrets.IAM}}
-        aws-region: ${{ secrets.AWS_REGION}}
+      - name: Set up AWS Credentials
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502
+        with:
+          role-to-assume: ${{ secrets.IAM}}
+          aws-region: ${{ secrets.AWS_REGION}}
 
       - name: List S3 Buckets
         env:
