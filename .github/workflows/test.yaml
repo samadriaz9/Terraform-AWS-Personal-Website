@@ -28,7 +28,7 @@ jobs:
        
       - name: Initialize Terraform
         run: terraform init
-        working-directory: terraform
+        working-directory: ./terraform
 
       - name: Terraform Plan
         env: 
@@ -37,13 +37,13 @@ jobs:
           terraform plan \
             -var="bucket_name=$BUCKET_NAME"
 
-        working-directory: terraform    
+        working-directory: ./terraform    
         
       - name: Terraform Apply
         env:
             TF_VAR_bucket_name: ${{ secrets.BUCKET_NAME}}
         run: terraform apply -auto-approve
-        working-directory: terraform
+        working-directory: ./terraform
 
 
       - name: Uploading Files to S3 Bucket
