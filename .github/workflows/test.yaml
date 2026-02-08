@@ -1,4 +1,4 @@
-name: Listening S3 Buckets
+name: Crate an S3 Bucket
 
 on:
   push:
@@ -12,18 +12,35 @@ permissions:
   contents: read    # This is required for actions/checkout
 
 jobs:
-  listening_buckets:
+  createing_bucket:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Set up AWS Credentials
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502
         with:
           role-to-assume: ${{ secrets.IAM}}
           aws-region: ${{ secrets.AWS_REGION}}
+      - name: Install Terraform
+        uses: hashicorp/setup-terraform@v3
+       
+      - name: Initialize Terraform
+        run: terraform init
+        working-directory: terraform
 
-      - name: List S3 Buckets
-        env:
-          AWS_REGION: ${{ secrets.AWS_REGION}}
+      - name: Terraform Plan
+        env: 
+          BUCKET_NAME: ${{ secrets.BUCKET_NAME}}
         run: |
-          echo "Listing S3 Buckets in region $AWS_REGION"
-          aws s3 ls
+          terraform plan \
+            -var="bucket_name=$BUCKET_NAME"
+
+        working-directory: terraform    
+        
+      - name: Terraform Apply
+        env:
+            TF_VAR_bucket_name: ${{ secrets.BUCKET_NAME}}
+        run: terraform apply -auto-approve
+        working-directory: terraform
